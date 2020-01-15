@@ -1,2 +1,3 @@
 un altro file
-aggiunta riga in br2
+
+ho tolto una riga che era qui di sopra
